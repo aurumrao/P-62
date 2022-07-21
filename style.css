@@ -1,0 +1,36 @@
+body
+{
+    text-align: center;
+	font-variant: small-caps;
+	background-color: deepskyblue;
+   color: darkslateblue;
+}
+.container{
+  background-color: deepskyblue;  
+}
+#app {
+    background-color: lightskyblue;
+}
+
+#myCarousel
+{
+    background-color:skyblue;
+	color: dodgerblue;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : navy;
+    font-size: 20px;
+}
